@@ -1,0 +1,10 @@
+Microsoft Windows [Version 10.0.19045.3803]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\user>cd Desktop
+
+C:\Users\user\Desktop>cd final-project
+
+C:\Users\user\Desktop\final-project>myForumProject\Scripts\activate
+
+(myForumProject) C:\Users\user\Desktop\final-project>python manage.py runserver
